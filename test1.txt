@@ -1,1 +1,2 @@
 str1
+send to public 
