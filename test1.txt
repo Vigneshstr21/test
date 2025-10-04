@@ -1,2 +1,2 @@
 str1
-send to public 
+send to public
